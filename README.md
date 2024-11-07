@@ -4,10 +4,10 @@ Ban đầu sinh ra 1 ma trận k*k ngẫu nhiên gồm các số từ 1 đến N
 
 ## Demo
 * Với k = 2
-!(https://github.com/nttdung0605/N-Puzzle-using-DFS/blob/main/demo/demo1.png "Demo 1")
+![](https://github.com/nttdung0605/N-Puzzle-using-DFS/blob/main/demo/demo1.png "Demo 1")
 
 * Với k = 3
-!(https://github.com/nttdung0605/N-Puzzle-using-DFS/blob/main/demo/demo2.png "Demo 2")
+![](https://github.com/nttdung0605/N-Puzzle-using-DFS/blob/main/demo/demo2.png "Demo 2")
 
 ## Install
 ```
